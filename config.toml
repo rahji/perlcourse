@@ -1,6 +1,7 @@
 baseURL = 'https://rahji.github.io/perlcourse/'
 languageCode = 'en-us'
 title = 'Perl Programming Course Materials'
+theme = 'hugo-book'
 
 [params]
   # BookRepo = 'https://github.com/rahji/perlcourse'
