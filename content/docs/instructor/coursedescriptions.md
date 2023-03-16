@@ -9,7 +9,7 @@ I taught this course as “Perl for Programmers” in fall and winter 2001 at th
 
 ### Perl for Programmers
 
-The Perl programming language is an invaluable tool to system administrators and web developers because of its unique combination of flexibility and power. In this course, you will learn the basics of Perl’s syntax and semantics including the various types of variables, conditional and looping constructs, file I/O, and interfacing with the underlying operating system. Although the course is conducted using the UNIX operating system, the concepts learned are easily applied to Windows and the MacOS as well. This class serves as an introduction to computer programming and previous programming experience is not required.
+The Perl programming language is an invaluable tool to system administrators and web developers because of its unique combination of flexibility and power. In this course, you will learn the basics of Perl’s syntax and semantics including the various types of variables, conditional and looping constructs, file I/O, and interfacing with the underlying operating system. Although the course is conducted using the UNIX operating system, the concepts learned are easily applied to Windows and the macOS as well. This class serves as an introduction to computer programming and previous programming experience is not required.
 
 ### Perl Programming
 
